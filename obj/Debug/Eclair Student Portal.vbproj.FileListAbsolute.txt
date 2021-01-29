@@ -1,0 +1,66 @@
+C:\Users\jamez\source\repos\Eclair Student Portal\bin\Debug\Eclair Student Portal.exe.config
+C:\Users\jamez\source\repos\Eclair Student Portal\bin\Debug\Eclair Student Portal.exe
+C:\Users\jamez\source\repos\Eclair Student Portal\bin\Debug\Eclair Student Portal.pdb
+C:\Users\jamez\source\repos\Eclair Student Portal\bin\Debug\Eclair Student Portal.xml
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.Form1stSem.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.Form2ndSem.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormAdminMenu.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormLogin.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormStudentMenu.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.Resources.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair Student Portal.vbproj.GenerateResource.cache
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair Student Portal.vbproj.CoreCompileInputs.cache
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair Student Portal.exe
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair Student Portal.xml
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair Student Portal.pdb
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair Student Portal.vbprojAssemblyReference.cache
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormModifyGrades.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormStudentProfile.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\bin\Debug\Eclair Student Portal.accdb
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormAddStudent.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormAddAdmin.resources
+C:\Users\jamez\source\repos\Eclair Student Portal\obj\Debug\Eclair_Student_Portal.FormViewStudentGrades.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\bin\Debug\Eclair Student Portal.accdb
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\bin\Debug\Eclair Student Portal.exe.config
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\bin\Debug\Eclair Student Portal.exe
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\bin\Debug\Eclair Student Portal.pdb
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\bin\Debug\Eclair Student Portal.xml
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair Student Portal.vbprojAssemblyReference.cache
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormAddAdmin.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormAddStudent.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormModifyGrades.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormViewStudentGrades.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.Form1stSem.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.Form2ndSem.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormAdminMenu.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormLogin.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormStudentMenu.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.Resources.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair_Student_Portal.FormStudentProfile.resources
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair Student Portal.vbproj.GenerateResource.cache
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair Student Portal.vbproj.CoreCompileInputs.cache
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair Student Portal.exe
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair Student Portal.xml
+C:\Users\jamez\source\repos\Eclair-Student-Portal-App\obj\Debug\Eclair Student Portal.pdb
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\bin\Debug\Eclair Student Portal.accdb
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\bin\Debug\Eclair Student Portal.exe.config
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\bin\Debug\Eclair Student Portal.exe
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\bin\Debug\Eclair Student Portal.pdb
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\bin\Debug\Eclair Student Portal.xml
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair Student Portal.vbprojAssemblyReference.cache
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormAddAdmin.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormAddStudent.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormModifyGrades.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormViewStudentGrades.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.Form1stSem.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.Form2ndSem.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormAdminMenu.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormLogin.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormStudentMenu.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.Resources.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair_Student_Portal.FormStudentProfile.resources
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair Student Portal.vbproj.GenerateResource.cache
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair Student Portal.vbproj.CoreCompileInputs.cache
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair Student Portal.exe
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair Student Portal.xml
+C:\Users\jamez\Source\Repos\Eclair-Student-Portal-AppMain\obj\Debug\Eclair Student Portal.pdb
